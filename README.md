@@ -27,7 +27,7 @@ Week of 2/19/2024
 - Modified some elements of Departments and Courses
 - Status Report Write Up
 
-Week of 2/26/2024 [PLANNED]
+Week of 2/26/2024
 - Implement PATCH requests for all possible objects to patch
 - Introduce a test suite for developed classes
 
